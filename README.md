@@ -26,7 +26,7 @@ Meu nome é <strong>Rafael Henrique Longhi</strong> e eu sou de Cascavel, Paran�
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rhlonghi30&hide_border=true&border_radius=0&locale=pt_BR&card_width=433&sideLabels=E17357&ring=E17357&fire=E34C26&currStreakNum=FFFFFF&currStreakLabel=E34C26&sideNums=DBDBDB&dates=AAAAAA&stroke=152D16&background=161B22)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhlonghi30&show_icons=true&title_color=AAAAAA&text_color=AAAAAA&icon_color=008F11&bg_color=161B22&hide_border=true&locale=pt-br&border_radius=0&card_width=433&rank_icon=github&include_all_commits=true&custom_title=Estatísticas&text_bold=false&ring_color=00FF00&layout=)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rhlonghi30&hide_border=true&border_radius=0&locale=pt_BR&card_width=430&sideLabels=E17357&ring=E17357&fire=E34C26&currStreakNum=FFFFFF&currStreakLabel=E34C26&sideNums=DBDBDB&dates=AAAAAA&stroke=152D16&background=161B22)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhlonghi30&show_icons=true&title_color=AAAAAA&text_color=AAAAAA&icon_color=008F11&bg_color=161B22&hide_border=true&locale=pt-br&border_radius=0&card_width=430&rank_icon=github&include_all_commits=true&custom_title=Estatísticas&text_bold=false&ring_color=00FF00&layout=)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rhlonghi30&bg_color=161B22&color=AAAAAA&line=1051E8&point=25517C&area_color=2F81F7&area=true&hide_border=true&custom_title=Gráfico%20de%20Contribuições&height=293)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhlonghi30&title_color=AAAAAA&text_color=AAAAAA&bg_color=161B22&hide_border=true&locale=pt-br&border_radius=0&card_width=1012&icon_color=ff00ff)
